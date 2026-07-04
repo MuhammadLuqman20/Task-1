@@ -23,5 +23,3 @@ This project contains the completed Profile Card component for the Deimos Tech W
 
 ## Author
 **Muhammad Luqman**
-**muhammadluqman66699@gmail.com**
-**MuhammadLuqman20**
